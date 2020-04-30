@@ -23,7 +23,7 @@ Controller Calculations:
 
 #### Variables :
 	
-	x = position of arm
+x = position of arm
 
 θ = angle of pendulum with respect to ground
 
