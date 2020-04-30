@@ -19,7 +19,6 @@ Project Managers: Danny Cervantes, Luis Dominguez, Victor Landa, Laura Jhoana Lo
 The Furuta Pendulum consists of a driven arm which rotates in the horizontal plane and a pendulum attached to that arm which is free to rotate in the vertical plane. The goal of the project is to use a control system to balance a beam up vertically by controlling the motors position on a gantry. There are 2 encoders that measure the 360 degree position of the motor and the angle of the beam with respect to the floor. The system will keep the beam upright and prevent it from falling by moving to the location needed to balance the beam using a 90 degree angle. This project is purely virtual therefore, our group used MATLAB and MATLAB's SIMULINK to demonstrate the inverted pendulum project with linear and non-linear control algorithms. To display how the project works virtually, the program CoppeliaSim was used which the Furuta Pendulum was created and programmed with the MATLAB code we created.
 
 ## 2. Modeling
-![](meca482pendulumpicof%20modeling.JPG)
 
 Controller Calculations:
 
@@ -41,6 +40,7 @@ fo = coefficient of friction
 
 With two degrees of freedom the following equations are produced by the system:
 
+![](meca482pendulumpicof%20modeling.JPG)
 ----------------------------------------------------------------------------------
 ## 3. Sensor Calibration
 There was no sensor calibration for this project due to the entirety of the project being virtual.
