@@ -55,6 +55,10 @@ There was no sensor calibration for this project due to the entirety of the proj
 -----------------------------------------------------------------------------------------------------
 ## 4. Controller Design and Simulation
 
+##### Figure 3: Image of the Furuta Pendulum designed using Coppelia
+
+![](coppeliapendulum.JPG)
+
 -----------------------------------------------------------------------------------------------------
 
 ## 5. Appendix A: Simulation Code
