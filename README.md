@@ -21,6 +21,8 @@ The Furuta Pendulum consists of a driven arm which rotates in the horizontal pla
 ## 2. Modeling
 Controller Calculations:
 
+![](meca482pendulumpicof%20modeling.JPG)
+
 #### Variables :
 	
 x = position of arm
