@@ -43,6 +43,11 @@ With two degrees of freedom the following equations are produced by the system:
 ##### Figure 1: Displays the system's model
 
 ![](meca482pendulumpicof%20modeling.JPG)
+
+#### Figure 2: Displays the control theory model of the Furuta Pendulum
+
+![](meca482controltheorymodel.JPG)
+
 ----------------------------------------------------------------------------------
 ## 3. Sensor Calibration
 There was no sensor calibration for this project due to the entirety of the project being virtual.
