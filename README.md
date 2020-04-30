@@ -1,4 +1,4 @@
-![](MECA482/chicostateeng.png)
+![](chicostateeng.png)
 # MECA-482: Control System Design
 
 Furuta Pendulum
