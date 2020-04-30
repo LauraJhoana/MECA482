@@ -25,17 +25,17 @@ Variables :
 	
 #### x = position of arm
 
-### θ = angle of pendulum with respect to ground
+#### θ = angle of pendulum with respect to ground
 
-F = applid force
+#### F = applid force
 
-m = mass of pendulum
+#### m = mass of pendulum
 
-l = length of pendulum 
+#### l = length of pendulum 
 
-g = gravity
+#### g = gravity
 
-fo = coefficient of friction
+#### fo = coefficient of friction
 
 With two degrees of freedom the following equations are produced by the system:
 
