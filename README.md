@@ -20,14 +20,23 @@ The Furuta Pendulum consists of a driven arm which rotates in the horizontal pla
 
 ## 2. Modeling
 Controller Calculations:
+
 	Variables :
+	
 x = position of arm
+
 θ = angle of pendulum with respect to ground
+
 F = applid force
+
 m = mass of pendulum
+
 l = length of pendulum 
+
 g = gravity
+
 fo = coefficient of friction
+
 With two degrees of freedom the following equations are produced by the system:
 
 ----------------------------------------------------------------------------------
