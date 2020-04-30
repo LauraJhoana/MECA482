@@ -67,7 +67,8 @@ https://en.wikipedia.org/wiki/Furuta_pendulum
 2. Control System Tutorials for MATLAB and Simulink, Retrieved by Feb., 25, 2020 from
 http://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SystemModeling
 
-3.
+3.  Quanser, Rotary Inverted Pendulum, Retrieved by Jan, 27, 2020 from
+https://www.quanser.com/products/rotary-inverted-pendulum/
 
 
 
