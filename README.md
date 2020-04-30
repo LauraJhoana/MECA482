@@ -1,4 +1,4 @@
-# MECA482
+# MECA-482: Control System Design
 
 Furuta Pendulum 
 
