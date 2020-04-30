@@ -40,6 +40,8 @@ fo = coefficient of friction
 
 With two degrees of freedom the following equations are produced by the system:
 
+##### Figure 1: Displays the system's model
+
 ![](meca482pendulumpicof%20modeling.JPG)
 ----------------------------------------------------------------------------------
 ## 3. Sensor Calibration
