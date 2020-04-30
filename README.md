@@ -44,7 +44,7 @@ With two degrees of freedom the following equations are produced by the system:
 
 ![](meca482pendulumpicof%20modeling.JPG)
 
-#### Figure 2: Displays the control theory model of the Furuta Pendulum
+##### Figure 2: Displays the control theory model of the Furuta Pendulum
 
 ![](meca482controltheorymodel.JPG)
 
