@@ -61,7 +61,14 @@ There was no sensor calibration for this project due to the entirety of the proj
 
 --------------------------------------------------
 ## 6. References
-	1.
+1. Wikipedia, Furuta Pendulum, Retrieved by Feb., 25, 2020 from
+https://en.wikipedia.org/wiki/Furuta_pendulum
+
+2. Control System Tutorials for MATLAB and Simulink, Retrieved by Feb., 25, 2020 from
+http://ctms.engin.umich.edu/CTMS/index.php?example=InvertedPendulum&section=SystemModeling
+
+3.
+
 
 
 
