@@ -15,5 +15,35 @@ The Furuta Pendulum consists of a driven arm which rotates in the horizontal pla
 - [2. Modeling]
 - [3. Senosr Calibration]
 - [4. Controller Design and Simulations]
-- [5. Appendix: A Simulation Code]
-- [References]
+- [5. Appendix A: Simulation Code]
+- [6. References]
+
+-------------------------------------------------------------------------------------------------------
+## 2. Modeling
+Controller Calculations:
+	Variables :
+x = position of arm
+θ = angle of pendulum with respect to ground
+F = applid force
+m = mass of pendulum
+l = length of pendulum 
+g = gravity
+fo = coefficient of friction
+With two degrees of freedom the following equations are produced by the system:
+
+----------------------------------------------------------------------------------
+## 3. Sensor Calibration
+There was no sensor calibration for this project due to the entirety of the project being virtual.
+
+-----------------------------------------------------------------------------------------------------
+## 4. Controller Design and Simulation
+
+-----------------------------------------------------------------------------------------------------
+
+## 5. Appendix A: Simulation Code
+
+--------------------------------------------------
+## 6. References
+
+
+
