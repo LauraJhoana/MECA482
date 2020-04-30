@@ -11,7 +11,7 @@ Project Managers: Danny Cervantes, Luis Dominguez, Victor Landa, Laura Jhoana Lo
 - [2. Modeling](#2-Modeling)
 - [3. Sensor Calibration](#3-Sensor_Calibration)
 - [4. Controller Design and Simulations](#4-Controller_Design_and_Simulations)
-- [5. Appendix A: Simulation Code](#5-Appendix_A:_Simulation Code)
+- [5. Appendix A: Simulation Code](#5-Appendix_A:_Simulation_Code)
 - [6. References](#6-References)
 
 ## 1. Introduction
