@@ -4,7 +4,7 @@ Furuta Pendulum
 
 Spring 2020, California State University of Chico
 
-By: Danny Cervantes, Luis Dominguez, Victor Landa, Laura Jhoana Lopez, and Juan Ruiz 
+Project Managers: Danny Cervantes, Luis Dominguez, Victor Landa, Laura Jhoana Lopez, and Juan Ruiz 
 
 -----------------------------------------------------------------------------------------------------
 ### Table of Contents
