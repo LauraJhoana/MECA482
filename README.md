@@ -6,7 +6,6 @@ Spring 2020, California State University of Chico
 
 Project Managers: Danny Cervantes, Luis Dominguez, Victor Landa, Laura Jhoana Lopez, and Juan Ruiz 
 
------------------------------------------------------------------------------------------------------
 ### Table of Contents
 - [1. Introduction] 
 - [2. Modeling]
