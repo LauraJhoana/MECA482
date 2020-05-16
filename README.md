@@ -43,7 +43,7 @@ With two degrees of freedom the following equations are produced by the system:
 ##### Figure 1: Displays the system's model
 
 ![](meca482pendulumpicof%20modeling.JPG)
-![](Meca482%20coppelia%20pic.JPG)
+
 
 ##### Figure 2: Displays the control theory model of the Furuta Pendulum
 
@@ -59,6 +59,7 @@ There was no sensor calibration for this project due to the entirety of the proj
 ##### Figure 3: Image of the Furuta Pendulum designed using Coppelia
 
 ![](coppeliapendulum.JPG)
+![](Meca482%20coppelia%20pic.JPG)
 
 -----------------------------------------------------------------------------------------------------
 
