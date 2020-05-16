@@ -66,6 +66,8 @@ Simulation can be seen in action on github labeled "2011214247_received_24079462
 
 ## 5. Appendix A: Simulation Code
 
+![](StateSpaceRep_.JPG)
+
 clc
 
 clear
