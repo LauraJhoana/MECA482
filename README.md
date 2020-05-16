@@ -28,7 +28,7 @@ x = position of arm
 
 θ = angle of pendulum with respect to ground
 
-F = applid force
+F = applied force
 
 m = mass of pendulum
 
