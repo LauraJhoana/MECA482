@@ -20,6 +20,9 @@ The Furuta Pendulum consists of a driven arm which rotates in the horizontal pla
 
 ## 2. Modeling
 
+The control dynamics of the Furuta Pendulum project was implemented using CoppeliaSim. CoppeliaSim is a program which allows users to create projects and systems online and compute dynamic properties which helps give a virtual view of the systems workings.
+The Matlab code the group created was connected with coppelia. Due to program issues and such, in the end we couldn’t get the virtual pendulum to stay up but we tried our best to be able to get the pendulum going!
+
 #### Controller Calculations:
 
 #### Variables :
