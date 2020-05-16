@@ -59,6 +59,7 @@ There was no sensor calibration for this project due to the entirety of the proj
 ##### Figure 3: Image of the Furuta Pendulum designed using Coppelia
 
 ![](Meca482%20coppelia%20pic.JPG)
+![](2011214247_received_240794620526014_1832625.mp4)
 
 -----------------------------------------------------------------------------------------------------
 
