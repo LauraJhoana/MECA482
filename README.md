@@ -77,6 +77,8 @@ Simulation can be seen in action on github labeled "2011214247_received_24079462
 
 ![](state%20space%20representation%20code%20continued.JPG)
 
+![](state%20space%20representation%20code%20continued%20part%203.JPG)
+
 ##### Control FURPEN:
 ![](Control_FURPEN_.JPG)
 
