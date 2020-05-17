@@ -52,6 +52,7 @@ With two degrees of freedom the following equations are produced by the system:
 
 ![](meca482controltheorymodel.JPG)
 
+##### Figure 3: Displays the Simulink model for the Furuta Pendulum
 ![](Simulink%20model%20image.JPG)
 
 ----------------------------------------------------------------------------------
@@ -61,7 +62,7 @@ There was no sensor calibration for this project due to the entirety of the proj
 -----------------------------------------------------------------------------------------------------
 ## 4. Controller Design and Simulation
 
-##### Figure 3: Image of the Furuta Pendulum designed using Coppelia
+##### Figure 4: Image of the Furuta Pendulum designed using Coppelia
 
 ![](Meca482%20coppelia%20pic.JPG)
 
