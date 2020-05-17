@@ -52,6 +52,8 @@ With two degrees of freedom the following equations are produced by the system:
 
 ![](meca482controltheorymodel.JPG)
 
+![](Simulink%20model%20image.JPG)
+
 ----------------------------------------------------------------------------------
 ## 3. Sensor Calibration
 There was no sensor calibration for this project due to the entirety of the project being virtual.
